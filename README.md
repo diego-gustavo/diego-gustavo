@@ -7,7 +7,7 @@ My name is Diego Gustavo, and I'm a full-stack web developer in training from So
 * 🖥️ See my portfolio [here](http://diego-rodrigues-git.github.io/portfolio/)
 * 🚀 I'm currently working on [my portfolio](http://diego-rodrigues-git.github.io/portfolio/)
 * 🧠 I'm currently learning React.js
-* 💬 Ask me about Scout for 8+ years
+* 💬 Ask me about Scouting (8+ years)
 
 <p align="center">
 
