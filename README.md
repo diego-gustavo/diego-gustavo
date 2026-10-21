@@ -1,8 +1,8 @@
-## Hi! My name is Diego Gustavo
-Full Stack Web Developer&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;IT (Systems Support) on **Afinz**<br>
+## Hi! My name is Diego Gustavo!
+Full Stack Web Developer&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;IT (Systems Support) on **Afinz/S@net**<br>
 
 <sup>My name is Diego Gustavo, and I'm a full-stack web developer in training from Sorocaba, São Paulo. I'm currently in my second year of high school, integrated with a technical course in Internet Informatics at ETEC Fernando Prestes, where I'm developing skills in HTML, CSS, JavaScript, React, Node.js, Python, PHP, and other technologies.</sup>
-
+  
 ![languages](https://img.shields.io/static/v1?label=&message=languages:&color=111&style=flat-square)
 ![javascript](https://img.shields.io/static/v1?logo=javascript&label=&message=JavaScript&color=36465D&logoColor=AAA&style=flat-square)
 ![typescript](https://img.shields.io/static/v1?logo=typescript&label=&message=TypeScript&color=36465D&logoColor=AAA&style=flat-square)
@@ -23,7 +23,7 @@ Full Stack Web Developer&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;IT (Systems Support
 ![devops](https://img.shields.io/static/v1?label=&message=devops%20%26%20infra:&color=111&style=flat-square)
 ![git](https://img.shields.io/static/v1?logo=git&label=&message=Git&color=36465D&logoColor=AAA&style=flat-square)
 ![linux](https://img.shields.io/static/v1?logo=linux&label=&message=Linux&color=36465D&logoColor=AAA&style=flat-square)
----
+
 <a href="https://www.linkedin.com/in/diego-gustavo">
   <img align="left" alt="Diego's LinkedIn" width="24px" src="https://skillicons.dev/icons?i=linkedin" />
 </a>
@@ -37,4 +37,4 @@ Full Stack Web Developer&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;IT (Systems Support
   <img align="left" alt="Diego's StackOverflow" width="24px" src="https://skillicons.dev/icons?i=stackoverflow" />
 </a>
 
-| &nbsp;&nbsp;&nbsp; My portfolio is [here](http://diego-rodrigues-git.github.io/portfolio/) &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Be Prepared! 73! &#x269C;
+| &nbsp;&nbsp;&nbsp; Take a look on my [portfolio!](http://diego-rodrigues-git.github.io/portfolio/) &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Be Prepared! 73! &#x269C;
